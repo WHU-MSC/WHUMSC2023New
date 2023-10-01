@@ -1,0 +1,7 @@
+wget https://share.weiyun.com/25oYq0sv
+unzip Files
+cd Files
+grep -r "MSC2023" .
+
+下载好files之后，直接解压，然后进入该文件夹中，输入该指令：
+grep -r "MSC2023" .
